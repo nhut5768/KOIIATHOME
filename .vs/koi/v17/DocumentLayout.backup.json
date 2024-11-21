@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\koi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\koiii\\feedcalculationmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\koiii\\feedcalculationmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\koiii\\articlemanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\koiii\\articlemanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\koiii\\fishmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\koiii\\fishmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\koiii\\ordermanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\koiii\\ordermanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\koiii\\pondmanagement\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\koiii\\pondmanagement\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\koiii\\productmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\koiii\\productmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\koiii\\saltcalculationmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\koiii\\saltcalculationmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\koiii\\waterparametermanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\koiii\\waterparametermanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\koiii\\pondmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\koiii\\pondmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\koiii\\articlemanagement\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\koiii\\articlemanagement\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\koi.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\koi.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|d:\\koi\\koi.webapp\\pages\\koiii\\feedcalculationmanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D46A1D0-A4FA-41D0-86D3-6231E00A0AE6}|koi.webapp\\koi.webapp.csproj|solutionrelative:koi.webapp\\pages\\koiii\\feedcalculationmanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "koi.webapp\\Pages\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAqwA8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T12:10:29.071Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\KOIII\\FeedCalculationManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\KOIII\\FeedCalculationManagement\\Index.cshtml",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\KOIII\\FeedCalculationManagement\\Index.cshtml",
+              "RelativeToolTip": "koi.webapp\\Pages\\KOIII\\FeedCalculationManagement\\Index.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:42:59.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\KOIII\\OrderManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\KOIII\\OrderManagement\\Index.cshtml",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\KOIII\\OrderManagement\\Index.cshtml",
+              "RelativeToolTip": "koi.webapp\\Pages\\KOIII\\OrderManagement\\Index.cshtml",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv4MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:41:54.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\KOIII\\WaterParameterManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\KOIII\\WaterParameterManagement\\Index.cshtml",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\KOIII\\WaterParameterManagement\\Index.cshtml",
+              "RelativeToolTip": "koi.webapp\\Pages\\KOIII\\WaterParameterManagement\\Index.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAADwv4UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:41:06.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\KOIII\\SaltCalculationManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\KOIII\\SaltCalculationManagement\\Index.cshtml",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\KOIII\\SaltCalculationManagement\\Index.cshtml",
+              "RelativeToolTip": "koi.webapp\\Pages\\KOIII\\SaltCalculationManagement\\Index.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAADwv3kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:40:32.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\KOIII\\ProductManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\KOIII\\ProductManagement\\Index.cshtml",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\KOIII\\ProductManagement\\Index.cshtml",
+              "RelativeToolTip": "koi.webapp\\Pages\\KOIII\\ProductManagement\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAkwGkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:39:16.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\KOIII\\PondManagement\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\KOIII\\PondManagement\\Index.cshtml.cs",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\KOIII\\PondManagement\\Index.cshtml.cs",
+              "RelativeToolTip": "koi.webapp\\Pages\\KOIII\\PondManagement\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:26:50.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\KOIII\\ArticleManagement\\Details.cshtml",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\KOIII\\ArticleManagement\\Details.cshtml",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\KOIII\\ArticleManagement\\Details.cshtml",
+              "RelativeToolTip": "koi.webapp\\Pages\\KOIII\\ArticleManagement\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T02:39:04.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\KOIII\\PondManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\KOIII\\PondManagement\\Index.cshtml",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\KOIII\\PondManagement\\Index.cshtml",
+              "RelativeToolTip": "koi.webapp\\Pages\\KOIII\\PondManagement\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T02:27:30.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\KOIII\\FishManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\KOIII\\FishManagement\\Index.cshtml",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\KOIII\\FishManagement\\Index.cshtml",
+              "RelativeToolTip": "koi.webapp\\Pages\\KOIII\\FishManagement\\Index.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAADwv5MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T02:27:12.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\KOIII\\ArticleManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\KOIII\\ArticleManagement\\Index.cshtml",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\KOIII\\ArticleManagement\\Index.cshtml",
+              "RelativeToolTip": "koi.webapp\\Pages\\KOIII\\ArticleManagement\\Index.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv3AAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T01:48:26.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "koi.webapp.csproj",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\koi.webapp.csproj",
+              "RelativeDocumentMoniker": "koi.webapp\\koi.webapp.csproj",
+              "ToolTip": "D:\\koi\\koi.webapp\\koi.webapp.csproj",
+              "RelativeToolTip": "koi.webapp\\koi.webapp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T16:37:44.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "koi.webapp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T12:45:00.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "koi.webapp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T12:30:58.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "koi.webapp\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowGEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-20T12:30:49.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Pages\\KOIII\\FeedCalculationManagement\\Create.cshtml",
+              "RelativeDocumentMoniker": "koi.webapp\\Pages\\KOIII\\FeedCalculationManagement\\Create.cshtml",
+              "ToolTip": "D:\\koi\\koi.webapp\\Pages\\KOIII\\FeedCalculationManagement\\Create.cshtml",
+              "RelativeToolTip": "koi.webapp\\Pages\\KOIII\\FeedCalculationManagement\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T12:30:35.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\koi\\koi.webapp\\Program.cs",
+              "RelativeDocumentMoniker": "koi.webapp\\Program.cs",
+              "ToolTip": "D:\\koi\\koi.webapp\\Program.cs",
+              "RelativeToolTip": "koi.webapp\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:24:05.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\koi\koi.respositories\bin\Debug\net8.0\koi.respositories.deps.json
+D:\koi\koi.respositories\bin\Debug\net8.0\koi.respositories.runtimeconfig.json
+D:\koi\koi.respositories\bin\Debug\net8.0\koi.respositories.dll
+D:\koi\koi.respositories\bin\Debug\net8.0\koi.respositories.pdb
+D:\koi\koi.respositories\obj\Debug\net8.0\koi.respositories.csproj.AssemblyReference.cache
+D:\koi\koi.respositories\obj\Debug\net8.0\koi.respositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\koi\koi.respositories\obj\Debug\net8.0\koi.respositories.AssemblyInfoInputs.cache
+D:\koi\koi.respositories\obj\Debug\net8.0\koi.respositories.AssemblyInfo.cs
+D:\koi\koi.respositories\obj\Debug\net8.0\koi.respositories.csproj.CoreCompileInputs.cache
+D:\koi\koi.respositories\obj\Debug\net8.0\koi.respositories.dll
+D:\koi\koi.respositories\obj\Debug\net8.0\refint\koi.respositories.dll
+D:\koi\koi.respositories\obj\Debug\net8.0\koi.respositories.pdb
+D:\koi\koi.respositories\obj\Debug\net8.0\koi.respositories.genruntimeconfig.cache
+D:\koi\koi.respositories\obj\Debug\net8.0\ref\koi.respositories.dll

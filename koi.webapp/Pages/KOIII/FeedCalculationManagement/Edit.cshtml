@@ -1,0 +1,39 @@
+﻿@page
+@model koi.webapp.Pages.FeedCalculationManagement.EditModel
+
+<h4>FeedCalculation</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="FeedCalculation.Id" />
+            <div class="form-group">
+                <label asp-for="FeedCalculation.FishId" class="control-label"></label>
+                <select asp-for="FeedCalculation.FishId" class="form-control" asp-items="ViewBag.FishId"></select>
+                <span asp-validation-for="FeedCalculation.FishId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FeedCalculation.FeedingDate" class="control-label"></label>
+                <input asp-for="FeedCalculation.FeedingDate" class="form-control" />
+                <span asp-validation-for="FeedCalculation.FeedingDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FeedCalculation.Amount" class="control-label"></label>
+                <input asp-for="FeedCalculation.Amount" class="form-control" />
+                <span asp-validation-for="FeedCalculation.Amount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,271 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Index - KoiKeeper</title>
+    <meta name="description" content="KoiKeeper - Manage your Koi fish health, pond conditions, and feeding schedules with ease.">
+    <meta name="keywords" content="Koi, Pond Management, Fish Care, KoiKeeper">
+
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+
+    <!-- Main CSS File -->
+    <link href="assets/css/main.css" rel="stylesheet">
+
+    <!-- Custom Styles for Enhanced Menu -->
+    <style>
+        /* Styling for the menu */
+        #navmenu ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+
+            #navmenu ul li {
+                position: relative;
+            }
+
+                #navmenu ul li a {
+                    text-decoration: none;
+                    font-weight: bold;
+                    color: #333;
+                    transition: color 0.3s ease, transform 0.3s ease;
+                }
+
+                    #navmenu ul li a:hover {
+                        color: #007bff;
+                        transform: scale(1.1);
+                    }
+
+                    /* Active Link Styling */
+                    #navmenu ul li a.active {
+                        color: #ff6347;
+                    }
+
+                /* Dropdown Menu Styling */
+                #navmenu ul li ul {
+                    display: none;
+                    position: absolute;
+                    top: 100%;
+                    left: 0;
+                    background-color: #fff;
+                    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+                    padding: 10px 0;
+                    min-width: 180px;
+                    z-index: 10;
+                }
+
+                #navmenu ul li:hover > ul {
+                    display: block;
+                }
+
+                #navmenu ul li ul li {
+                    padding: 10px;
+                }
+
+                    #navmenu ul li ul li a {
+                        color: #333;
+                    }
+
+                        #navmenu ul li ul li a:hover {
+                            color: #007bff;
+                        }
+
+        /* Sticky Navbar */
+        #header.sticky-top {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background-color: #ffffff;
+            border-bottom: 2px solid #eee;
+        }
+
+        /* Home Section */
+        #home-intro {
+            text-align: center;
+            padding: 60px 0;
+            background-color: #f7f7f7;
+        }
+
+            #home-intro h1 {
+                font-size: 2.5rem;
+                font-weight: 600;
+                color: #333;
+            }
+
+            #home-intro p {
+                font-size: 1.2rem;
+                margin-top: 20px;
+                color: #555;
+            }
+
+            #home-intro img {
+                max-width: 100%;
+                height: auto;
+                margin-top: 40px;
+            }
+
+        /* Section Styling for Each Function */
+        .function-section {
+            text-align: center;
+            padding: 60px 0;
+            background-color: #f0f0f0;
+        }
+
+            .function-section img {
+                max-width: 100%;
+                height: auto;
+                margin-top: 40px;
+            }
+
+            .function-section h2 {
+                font-size: 2.5rem;
+                color: #333;
+            }
+
+            .function-section p {
+                font-size: 1.2rem;
+                margin-top: 20px;
+                color: #555;
+            }
+    </style>
+</head>
+
+<body class="index-page">
+
+    <header id="header" class="header d-flex align-items-center sticky-top">
+        <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+            <a href="index.html" class="logo d-flex align-items-center">
+                <h1 class="sitename">KoiKeeper</h1>
+            </a>
+            <nav id="navmenu" class="navmenu">
+                <ul>
+                    <li><a href="http://localhost:5237" class="active">Home</a></li>
+                    <li><a href="http://localhost:5237/KOIII/ArticleManagement">Article</a></li>
+                    <li><a href="http://localhost:5237/KOIII/FishManagement">Fish</a></li>
+                    <li><a href="http://localhost:5237/KOIII/FeedCalculationManagement">Feed</a></li>
+                    <li><a href="http://localhost:5237/KOIII/PondManagement">Pond</a></li>
+                    <li><a href="http://localhost:5237/KOIII/ProductManagement">Product</a></li>
+                    <li><a href="http://localhost:5237/KOIII/OrderManagement">Order</a></li>
+                    <li><a href="http://localhost:5237/KOIII/SaltCalculationManagement">Salt</a></li>
+                    <li><a href="http://localhost:5237/KOIII/WaterParameterManagement">Water</a></li>
+                </ul>
+                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Home Section (Introduction to the Koi Project) -->
+    <section id="home-intro">
+        <div class="container">
+            <h1>Welcome to KoiKeeper</h1>
+            <p>Manage your Koi fish health, pond conditions, and feeding schedules with ease. Our system helps you track growth, water parameters, and other important aspects of koi care.</p>
+            <img src="assets/img/koi3.jpg" alt="Koi Project Introduction">
+        </div>
+    </section>
+
+    <!-- Feature Introduction (Add Functionality) -->
+    <section id="function-intro">
+        <div class="container">
+            <div class="row">
+                <!-- Article Management -->
+                <div class="col-md-4 function-section">
+                    <h2>Article</h2>
+                    <img src="assets/img/koi1.jpeg" alt="Article Management">
+                    <p>Manage articles related to Koi fish care, pond maintenance, and more.</p>
+                </div>
+                <!-- Feed Calculation -->
+                <div class="col-md-4 function-section">
+                    <h2>Feed Calculation</h2>
+                    <img src="assets/img/thưc-an-ca-koi.png" alt="Feed Calculation">
+                    <p>Manage and calculate the amount of food needed for your Koi based on their growth stages.</p>
+                </div>
+                <!-- Fish Management -->
+                <div class="col-md-4 function-section">
+                    <h2>Fish Management</h2>
+                    <img src="assets/img/koi4.jpg" alt="Fish Management">
+                    <p>Track your Koi's growth, size, weight, and other important details to ensure their health.</p>
+                </div>
+                <!-- Pond Management -->
+                <div class="col-md-4 function-section">
+                    <h2>Pond Management</h2>
+                    <img src="assets/img/logo-ca-Koi-23.png" alt="Pond Management">
+                    <p>Monitor pond conditions, water parameters, and adjust settings to keep your Koi happy.</p>
+                </div>
+                <!-- Product Management -->
+                <div class="col-md-4 function-section">
+                    <h2>Product</h2>
+                    <img src="assets/img/koi5.jpg" alt="Product Management">
+                    <p>Buy products for Koi health, water treatment, and pond care.</p>
+                </div>
+                <!-- Order Management -->
+                <div class="col-md-4 function-section">
+                    <h2>Order</h2>
+                    <img src="assets/img/oderkoi.jpg" alt="Order Management">
+                    <p>Manage and track orders for products and services.</p>
+                </div>
+                <!-- Salt Calculation -->
+                <div class="col-md-4 function-section">
+                    <h2>Salt</h2>
+                    <img src="assets/img/muoica.jpg" alt="Salt Calculation">
+                    <p>Calculate the right amount of salt needed for your Koi's health and pond conditions.</p>
+                </div>
+                <!-- Water Parameter Management -->
+                <div class="col-md-4 function-section">
+                    <h2>Water Parameters</h2>
+                    <img src="assets/img/waterkoi.jpg" alt="Water Parameter Management">
+                    <p>Track and adjust water quality parameters for optimal Koi health.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content Section -->
+    <main class="main">
+        <section id="about" class="about section">
+            @RenderBody()
+        </section>
+    </main>
+
+    <footer id="footer" class="footer light-background">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-md-6 col-lg-3 mb-3 mb-md-0">
+                    <div class="widget">
+                        <h3 class="widget-heading">Contact Us</h3>
+                        <ul class="list-unstyled">
+                            <li><i class="bi bi-house-door"></i> 123 Nguyễn Thị Minh Khai, Quận 1, TP.HCM</li>
+                            <li><i class="bi bi-envelope"></i> nhutntt5768@ut.edu.vn</li>
+                            <li><i class="bi bi-phone"></i> +123 456 7890</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- External JS Files -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

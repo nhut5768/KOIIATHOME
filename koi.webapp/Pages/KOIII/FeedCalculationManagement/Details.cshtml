@@ -1,0 +1,31 @@
+﻿@page
+@model koi.webapp.Pages.FeedCalculationManagement.DetailsModel
+
+<div>
+    <h4>FeedCalculation</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.FeedCalculation.FeedingDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FeedCalculation.FeedingDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.FeedCalculation.Amount)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FeedCalculation.Amount)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.FeedCalculation.Fish)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FeedCalculation.Fish.Name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.FeedCalculation.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

@@ -1,0 +1,215 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = koi.webapp
+build_property.RootNamespace = koi.webapp
+build_property.ProjectDir = D:\koi\koi.webapp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\koi\koi.webapp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/koi/koi.webapp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/ArticleManagement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcQXJ0aWNsZU1hbmFnZW1lbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/ArticleManagement/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcQXJ0aWNsZU1hbmFnZW1lbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/ArticleManagement/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcQXJ0aWNsZU1hbmFnZW1lbnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/ArticleManagement/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcQXJ0aWNsZU1hbmFnZW1lbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/ArticleManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcQXJ0aWNsZU1hbmFnZW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/FeedCalculationManagement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcRmVlZENhbGN1bGF0aW9uTWFuYWdlbWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/FeedCalculationManagement/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcRmVlZENhbGN1bGF0aW9uTWFuYWdlbWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/FeedCalculationManagement/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcRmVlZENhbGN1bGF0aW9uTWFuYWdlbWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/FeedCalculationManagement/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcRmVlZENhbGN1bGF0aW9uTWFuYWdlbWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/FeedCalculationManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcRmVlZENhbGN1bGF0aW9uTWFuYWdlbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/FishManagement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcRmlzaE1hbmFnZW1lbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/FishManagement/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcRmlzaE1hbmFnZW1lbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/FishManagement/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcRmlzaE1hbmFnZW1lbnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/FishManagement/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcRmlzaE1hbmFnZW1lbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/FishManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcRmlzaE1hbmFnZW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/OrderManagement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcT3JkZXJNYW5hZ2VtZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/OrderManagement/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcT3JkZXJNYW5hZ2VtZW50XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/OrderManagement/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcT3JkZXJNYW5hZ2VtZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/OrderManagement/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcT3JkZXJNYW5hZ2VtZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/OrderManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcT3JkZXJNYW5hZ2VtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/PondManagement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcUG9uZE1hbmFnZW1lbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/PondManagement/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcUG9uZE1hbmFnZW1lbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/PondManagement/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcUG9uZE1hbmFnZW1lbnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/PondManagement/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcUG9uZE1hbmFnZW1lbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/PondManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcUG9uZE1hbmFnZW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/ProductManagement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcUHJvZHVjdE1hbmFnZW1lbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/ProductManagement/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcUHJvZHVjdE1hbmFnZW1lbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/ProductManagement/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcUHJvZHVjdE1hbmFnZW1lbnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/ProductManagement/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcUHJvZHVjdE1hbmFnZW1lbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/ProductManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcUHJvZHVjdE1hbmFnZW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/SaltCalculationManagement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcU2FsdENhbGN1bGF0aW9uTWFuYWdlbWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/SaltCalculationManagement/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcU2FsdENhbGN1bGF0aW9uTWFuYWdlbWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/SaltCalculationManagement/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcU2FsdENhbGN1bGF0aW9uTWFuYWdlbWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/SaltCalculationManagement/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcU2FsdENhbGN1bGF0aW9uTWFuYWdlbWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/SaltCalculationManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcU2FsdENhbGN1bGF0aW9uTWFuYWdlbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/WaterParameterManagement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcV2F0ZXJQYXJhbWV0ZXJNYW5hZ2VtZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/WaterParameterManagement/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcV2F0ZXJQYXJhbWV0ZXJNYW5hZ2VtZW50XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/WaterParameterManagement/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcV2F0ZXJQYXJhbWV0ZXJNYW5hZ2VtZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/WaterParameterManagement/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcV2F0ZXJQYXJhbWV0ZXJNYW5hZ2VtZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/KOIII/WaterParameterManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS09JSUlcV2F0ZXJQYXJhbWV0ZXJNYW5hZ2VtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/koi/koi.webapp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7cshpyuwta

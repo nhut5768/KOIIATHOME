@@ -1,0 +1,15 @@
+D:\koi\koi.services\bin\Debug\net8.0\koi.services.deps.json
+D:\koi\koi.services\bin\Debug\net8.0\koi.services.dll
+D:\koi\koi.services\bin\Debug\net8.0\koi.services.pdb
+D:\koi\koi.services\bin\Debug\net8.0\koi.respositories.dll
+D:\koi\koi.services\bin\Debug\net8.0\koi.respositories.pdb
+D:\koi\koi.services\obj\Debug\net8.0\koi.services.csproj.AssemblyReference.cache
+D:\koi\koi.services\obj\Debug\net8.0\koi.services.GeneratedMSBuildEditorConfig.editorconfig
+D:\koi\koi.services\obj\Debug\net8.0\koi.services.AssemblyInfoInputs.cache
+D:\koi\koi.services\obj\Debug\net8.0\koi.services.AssemblyInfo.cs
+D:\koi\koi.services\obj\Debug\net8.0\koi.services.csproj.CoreCompileInputs.cache
+D:\koi\koi.services\obj\Debug\net8.0\koi.serv.524E642F.Up2Date
+D:\koi\koi.services\obj\Debug\net8.0\koi.services.dll
+D:\koi\koi.services\obj\Debug\net8.0\refint\koi.services.dll
+D:\koi\koi.services\obj\Debug\net8.0\koi.services.pdb
+D:\koi\koi.services\obj\Debug\net8.0\ref\koi.services.dll
